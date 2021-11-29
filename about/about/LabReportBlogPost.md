@@ -1,0 +1,2 @@
+# Lab Report Update
+Working on this post isn't too bad, but working on the website itself has been quite a challenge! I am struggling with customizing the site and formatting it in a more visually appealing way. Though I am submitting the lab report now, I plan to work on the website more so that it looks better. 
