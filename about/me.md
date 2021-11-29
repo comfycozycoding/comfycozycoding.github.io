@@ -1,3 +1,35 @@
+---
+layout: page
+title: About Me
+---
+My name is Gwen Shackleford and I am a senior at Texas A&M University. Here are some fun facts about me:
+
+1. I am an English major
+
+1. I have played the piano since I was 9
+
+3. #Dogperson all the way 
+4. I have walked the Great Wall of China!
+5. I'm a native Texan, yet have spent more time in Michigan than in Austin. 
+
+Here's a picture I took:
+
+![GRRM's papers at Texas A&M in Cushing Library](IMG_4192.png)
+
+This video gets me:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D__6hwqjZAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
+
+
+
+
+
+
 # About Me
 ## My name is Gwen Shackleford and I am a senior at Texas A&M University. Whoop! Here are some fun facts about me: 
 ### - I am an English major
