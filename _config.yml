@@ -5,11 +5,6 @@
 title: College Daze
 # Short bio or description (displayed in the header)
 description: The life of just another college student in a pandemic. 
-p {
-  font-size: 1em;
-  Color: blue;
-  Margin-bottom: 4px
-}
 #
 # !! DON'T EDIT BELOW THIS MESSAGE
 #
